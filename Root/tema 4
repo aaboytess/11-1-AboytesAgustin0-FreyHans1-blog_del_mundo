@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+
+    <title>Document</title>
+</head>
+<body>
+<article>
+<header>
+<hgroup>
+<h2>Escala mayor</h2>
+</hgroup>
+</header>  
+<div>
+<p>La escala mayor es un tipo de escala, no solo de la guitarra sino que de la música en general que se compone por los siguiente intervalos: Tono, tono, semitono, tono, tono, tono, semintono. Eso puede ser dificil de entender al principio, pero pongamoslo en la guitarra. Cada traste es medio tono mas agudo que el traste que se encuentra detras de el. Si empezamos en el primer traste de la segunda cuerda encontramos un Do (C). Nos movemos un tono completo como dicta la regla y eso significa que acabamos en el tercer traste de la segunda cuerda, la cual es un Re (D). Si movemos otro tono completo, osea 2 trastes, encontramos un Mi (E), aquí la regla indica que debemos recorrerno 1 solo semitono, lo cual es un traste y nos pone en un Fa (F). Si seguimos recorriendo los trastes según la regla tocaremos la escala mayor de Do.</p>
+</div>  
+</article>   
+</body>
